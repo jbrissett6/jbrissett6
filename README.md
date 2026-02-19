@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi I'm Jourdan Brissett.
 
+
+I am a CS student at Harvard University, and a Division 1 football player. 
+I'm very interested in the world of technology and how I can use this tool to solve real world problems. 
+
+###
+
+You can reach me at: jbrissett@college.harvard.edu | https://www.linkedin.com/in/jourdan-brissett-68340037a/
 <!--
 **jbrissett6/jbrissett6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
